@@ -1,2 +1,2 @@
 # git-intro
-ntro to my Git Learning
+intro to my Git Learning
